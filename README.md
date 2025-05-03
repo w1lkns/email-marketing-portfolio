@@ -4,9 +4,11 @@ Welcome to my email marketing portfolio, a collection of self-initiated, strateg
 
 Each folder contains a mini case study designed to showcase specific skills in:
 - Email copywriting
-- Lifecycle strategy
+- Lifecycle & retention strategy
 - Onboarding flows
 - Newsletter design
+- Segmentation, personalization & targeting
+- A/B testing strategy
 - Tool evaluation and UX thinking
 
 These are **speculative (spec)** projects based on realistic scenarios and NGOs to demonstrate my approach and capabilities.
