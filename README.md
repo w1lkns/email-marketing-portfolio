@@ -1,6 +1,6 @@
 # 📨 Email Marketing Portfolio
 
-Welcome to my email marketing portfolio, a collection of self-initiated, strategy-driven projects created as part of my 📨 365 Email Marketing Challenge (https://wilkinsmorales.com/365-email-marketing/).
+Welcome to my email marketing portfolio, a collection of self-initiated, strategy-driven projects created as part of my [📨 365 Email Marketing Challenge](https://wilkinsmorales.com/365-email-marketing/).
 
 Each folder contains a mini case study designed to showcase specific skills in:
 - Email copywriting
