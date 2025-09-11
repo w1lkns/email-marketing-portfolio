@@ -2,7 +2,7 @@
 
 ## Goal
 
-Convert SaaS trial users into paying customers by driving activation in the first 7 days.
+The goal of this flow is to activate trial users within their first week by delivering early value. Engaged users receive a feature highlight, while inactive users get a reminder email to reduce drop-off. The flow is designed around a 5-day trial period but can be adapted to different timelines.
 
 ## Strategy
 
