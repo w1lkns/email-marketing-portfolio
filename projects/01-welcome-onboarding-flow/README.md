@@ -13,7 +13,7 @@ Convert SaaS trial users into paying customers by driving activation in the firs
 
 ## Flow Diagram
 
-![Welcome Flow](/diagram.png)
+![Welcome Flow](/email-marketing-portfolio/projects/01-welcome-onboarding-flow/diagram.png)
 
 ### Legend
 
