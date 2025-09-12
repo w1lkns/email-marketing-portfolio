@@ -135,7 +135,7 @@ Questions? Just reply to this email, we are available 24/7 to help.
 Cheers,  
 The [Product] Team
 ```
-<!-- ![Upgrade Offer Mockup](email-mockups/upgrade.png) -->
+![Upgrade Offer Mockup](email-mockups/upgrade.png)
 
 ## Results (Hypothetical)
 
