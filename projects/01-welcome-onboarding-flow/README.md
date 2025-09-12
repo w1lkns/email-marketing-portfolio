@@ -9,6 +9,7 @@ The goal of this flow is to activate trial users within their first week by deli
 - Trigger: New signup
 - Segments: Active vs inactive users
 - Channels: Email
+- Timing: 4 touches across 5 days (adaptable to trial length)
 - KPIs: Activation rate, CTR, Trial-to-Paid conversion
 
 ## Flow Diagram
@@ -24,13 +25,13 @@ The goal of this flow is to activate trial users within their first week by deli
 - 🟥 **End** = Exit point
 
 ## Email Examples
+Below are 4 emails included in the flow, with subject, preheader, purpose, and plain-text body examples.  
 
-- **Day 0 – Welcome Email**</br>
-  <!-- ![Welcome Email Mockup](email-mockups/welcome.png) -->
-  _Subject_: Welcome to [Product] — here’s your first quick win</br>
-  _Preheader_: Get started in 2 minutes with our setup guide</br>
-  _Purpose_: Guide users to quick setup and highlight immediate value.</br>
-  _Body (plain text)_:
+- **Day 0 – Welcome Email** 
+  **Subject**: Welcome to [Product] — here’s your first quick win  
+  **Preheader**: Get started in 2 minutes with our setup guide  
+  **Purpose**: Guide users to quick setup and highlight immediate value  
+  **Body (plain text)**:
 
 ```
 Hi [First Name],
@@ -48,14 +49,14 @@ Cheers,
 The [Product] Team
 ```
 
+<!-- ![Welcome Email Mockup](email-mockups/welcome.png) -->
 ---
 
-- **Day 2 – Feature Email (Active Users)**</br>
-  <!-- ![Feature Email Mockup](email-mockups/feature.png) -->
-  _Subject_: Unlock the feature our power users love most</br>
-  _Preheader_: See how [Feature] can save you time starting today</br>
-  _Purpose_: Drive activation of key product feature that increases retention</br>
-  _Body (plain text)_:
+- **Day 2 – Feature Email (Active Users)**
+  **Subject**: Unlock the feature our power users love most  
+  **Preheader**: See how [Feature] can save you time starting today  
+  **Purpose**: Drive activation of key product feature that increases retention  
+  **Body (plain text)**:
 
 ```
 Hi [First Name],
@@ -77,15 +78,14 @@ to see value from your trial.
 Cheers,
 The [Product] Team
 ```
-
+<!-- ![Feature Email Mockup](email-mockups/feature.png) -->
 ---
 
-- **Day 2 – Nudge Email (Inactive Users)**</br>
-   <!-- ![Nudge Email Mockup](email-mockups/nudge.png) -->
-  _Subject_: Haven’t had a chance to explore? Here’s why it’s worth it</br>
-  _Preheader_: See the core benefit in one click</br>
-  _Purpose_: Reactivate inactive users with a value reminder and low-friction next step.</br>
-  _Body (plain text)_:
+- **Day 2 – Nudge Email (Inactive Users)**
+  **Subject**: Haven’t had a chance to explore? Here’s why it’s worth it  
+  **Preheader**: See the core benefit in one click  
+  **Purpose**: Reactivate inactive users with a value reminder and low-friction next step  
+  **Body (plain text)**:
 
 ```
 Hi [First Name],
@@ -106,18 +106,48 @@ email and we’ll point you to the best setup.
 Cheers,
 The [Product] Team
 ```
-
+<!-- ![Nudge Email Mockup](email-mockups/nudge.png) -->
 ---
 
-- **Day 5 – Upgrade Offer**</br>
-  <!-- ![Upgrade Offer Mockup](email-mockups/upgrade.png) -->
-  _Subject_: Your trial is almost up — upgrade today and save 20%
-  _Purpose_: Create urgency, push trial users to paid plan.
-  _Body (plain text)_:
+- **Day 5 – Upgrade Offer**  
+  **Subject**: Trial expiring: lock in 20% off before it’s gone  
+  **Preheader**: Keep your projects up & running without interruption  
+  **Purpose**: Create urgency and convert trial users before expiry  
+  **Body (plain text)**:
+```
+Hi [First Name],
+
+Your trial with [Product] is ending soon, but you don’t have to lose 
+the progress you've made. 
+Upgrade today and enjoy 20% off your first 3 months.
+
+Here’s what you unlock when you upgrade:
+• Unlimited access to [key feature]  
+• [Premium benefit or integration]  
+• Priority support from our team  
+
+[CTA Button: Upgrade Now]
+
+Don’t miss out, this offer expires when your trial ends on [date].
+
+Questions? Just reply to this email, we are available 24/7 to help.
+
+Cheers,  
+The [Product] Team
+```
+<!-- ![Upgrade Offer Mockup](email-mockups/upgrade.png) -->
 
 ## Results (Hypothetical)
 
-- 40% open rate (Welcome Email)
-- 12% CTR (Feature Highlight)
-- 8% reactivation rate (Nudge Email)
-- 15% trial-to-paid conversion uplift (Upgrade Offer)
+- 40% open rate on Welcome Email (industry avg: 25%)  
+- 12% CTR on Feature Highlight (above benchmark of ~7%)  
+- 8% of inactive users reactivated via Nudge Email  
+- 15% increase in trial-to-paid conversion rate (vs control)
+
+## Insights
+
+- Early activation is the strongest driver of conversion — users who engaged with a key feature within 2 days were significantly more likely to upgrade.  
+- Inactivity sets in quickly; a targeted nudge at Day 2 helped recover 8% of otherwise lost users.  
+- A clear, time-bound upgrade offer at the end of the trial created urgency and delivered measurable lift in paid conversions.  
+
+**Conclusion**: This flow demonstrates how structured lifecycle messaging, from activation nudges to time-bound offers, can turn short trials into long-term customers.
