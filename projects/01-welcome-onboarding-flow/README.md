@@ -81,7 +81,7 @@ The [Product] Team
 <!-- ![Feature Email Mockup](email-mockups/feature.png) -->
 ---
 
-- **Day 2 – Nudge Email (Inactive Users)**
+- **Day 2 – Nudge Email (Inactive Users)**  
   **Subject**: Haven’t had a chance to explore? Here’s why it’s worth it  
   **Preheader**: See the core benefit in one click  
   **Purpose**: Reactivate inactive users with a value reminder and low-friction next step  
