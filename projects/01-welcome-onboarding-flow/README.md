@@ -27,7 +27,7 @@ The goal of this flow is to activate trial users within their first week by deli
 ## Email Examples
 Below are 4 emails included in the flow, with subject, preheader, purpose, and plain-text body examples.  
 
-- **Day 0 – Welcome Email** 
+- **Day 0 – Welcome Email**  
   **Subject**: Welcome to [Product] — here’s your first quick win  
   **Preheader**: Get started in 2 minutes with our setup guide  
   **Purpose**: Guide users to quick setup and highlight immediate value  
@@ -49,10 +49,10 @@ Cheers,
 The [Product] Team
 ```
 
-<!-- ![Welcome Email Mockup](email-mockups/welcome.png) -->
+![Welcome Email Mockup](email-mockups/welcome.png)
 ---
 
-- **Day 2 – Feature Email (Active Users)**
+- **Day 2 – Feature Email (Active Users)**  
   **Subject**: Unlock the feature our power users love most  
   **Preheader**: See how [Feature] can save you time starting today  
   **Purpose**: Drive activation of key product feature that increases retention  
