@@ -26,17 +26,17 @@ The goal of this flow is to activate trial users within their first week by deli
 ## Email Examples
 
 - **Day 0 – Welcome Email**</br>
-  <!-- ![Welcome Email Mockup](email-mockups/welcome.png) -->
-  _Subject_: Welcome to [Product] — here’s your first quick win  
-  _Purpose_: Guide users to quick setup and highlight immediate value.
-  _Body_:
+<!-- ![Welcome Email Mockup](email-mockups/welcome.png) -->
+_Subject_: Welcome to [Product] — here’s your first quick win  
+_Purpose_: Guide users to quick setup and highlight immediate value.
+_Body (plain text)_:
 ```
 Hi [First Name],
 
 Welcome to [Product]! You’re all set to start your free trial.
 To help you get the most value right away, we’ve put together a quick 2-minute setup guide:
 
-[CTA Button][Get Started Now]
+[CTA button: Get Started Now]
 
 The sooner you explore, the faster you’ll see how [Product] can [core benefit, e.g. save you time / improve your workflow].
 
