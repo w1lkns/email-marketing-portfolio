@@ -26,9 +26,9 @@ The goal of this flow is to activate trial users within their first week by deli
 ## Email Examples
 
 - **Day 0 – Welcome Email**
-  ![Welcome Email](email-mockups/welcome.png)
-  _Subject_: Welcome to [Product] — here’s your first quick win  
-  _Purpose_: Guide users to quick setup and highlight immediate value.
+![Welcome Email](email-mockups/welcome.png)
+*Subject*: Welcome to [Product] — here’s your first quick win  
+*Purpose*: Guide users to quick setup and highlight immediate value.
 
 ---
 
