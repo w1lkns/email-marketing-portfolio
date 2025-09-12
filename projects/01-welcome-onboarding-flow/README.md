@@ -50,9 +50,30 @@ The [Product] Team
 
 - **Day 2 – Feature Email (Active Users)**</br>
   <!-- ![Feature Email Mockup](email-mockups/feature.png) -->
-  _Subject_: Unlock the feature our power users love most
-  _Purpose_: Drive activation of key product feature.
+  _Subject_: Unlock the feature our power users love most</br>
+  _Preheader_: See how [Feature] can save you time starting today</br>
+  _Purpose_: Drive activation of key product feature that increases retention</br>
   _Body (plain text)_:
+```
+Hi [First Name],
+
+Great to see you exploring [Product]!  
+Here’s a feature our power users say makes the biggest difference:
+
+✅ [Feature Benefit #1]  
+✅ [Feature Benefit #2]  
+
+It only takes a minute to try it — and once you do, you’ll 
+start saving time every day.
+
+[CTA Button: Activate This Feature]
+
+Ready to try it? Activating this feature is the fastest way 
+to see value from your trial.
+
+Cheers,  
+The [Product] Team
+```
 
 ---
 
