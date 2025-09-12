@@ -25,30 +25,30 @@ The goal of this flow is to activate trial users within their first week by deli
 
 ## Email Examples
 
-- **Day 0 – Welcome Email**
-![Welcome Email Mockup](email-mockups/welcome.png)
+- **Day 0 – Welcome Email**</br>
+<!-- ![Welcome Email Mockup](email-mockups/welcome.png) -->
 *Subject*: Welcome to [Product] — here’s your first quick win  
 *Purpose*: Guide users to quick setup and highlight immediate value.
 
 ---
 
-- **Day 2 – Feature Email (Active Users)**
-  <!-- ![Feature Email Mockup](email-mockups/feature.png) -->
-  _Subject_: Unlock the feature our power users love most
+- **Day 2 – Feature Email (Active Users)**</br>
+<!-- ![Feature Email Mockup](email-mockups/feature.png) -->
+  _Subject_: Unlock the feature our power users love most</br>
   _Purpose_: Drive activation of key product feature.
 
 ---
 
-- **Day 2 – Nudge Email (Inactive Users)**
+- **Day 2 – Nudge Email (Inactive Users)**</br>
  <!-- ![Nudge Email Mockup](email-mockups/nudge.png) -->
-  _Subject_: Haven’t had a chance to explore? Here’s why it’s worth it
+  _Subject_: Haven’t had a chance to explore? Here’s why it’s worth it</br>
   _Purpose_: Reactivate inactive users with a value reminder.
   
 ---
 
-- **Day 5 – Upgrade Offer**
+- **Day 5 – Upgrade Offer**</br>
  <!-- ![Upgrade Offer Mockup](email-mockups/upgrade.png) -->
-  _Subject_: Your trial is almost up — upgrade today and save 20%  
+  _Subject_: Your trial is almost up — upgrade today and save 20%</br>
   _Purpose_: Create urgency, push trial users to paid plan.
 
 ## Results (Hypothetical)
