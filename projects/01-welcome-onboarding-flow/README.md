@@ -27,7 +27,7 @@ The goal of this flow is to activate trial users within their first week by deli
 ## Email Examples
 Below are 4 emails included in the flow, with subject, preheader, purpose, and plain-text body examples.  
 
-- **Day 0 – Welcome Email** 
+- **Day 0 – Welcome Email**  
   **Subject**: Welcome to [Product] — here’s your first quick win  
   **Preheader**: Get started in 2 minutes with our setup guide  
   **Purpose**: Guide users to quick setup and highlight immediate value  
@@ -49,10 +49,10 @@ Cheers,
 The [Product] Team
 ```
 
-<!-- ![Welcome Email Mockup](email-mockups/welcome.png) -->
+![Welcome Email Mockup](email-mockups/welcome.png)
 ---
 
-- **Day 2 – Feature Email (Active Users)**
+- **Day 2 – Feature Email (Active Users)**  
   **Subject**: Unlock the feature our power users love most  
   **Preheader**: See how [Feature] can save you time starting today  
   **Purpose**: Drive activation of key product feature that increases retention  
@@ -67,7 +67,7 @@ Here’s a feature our power users say makes the biggest difference:
 ✅ [Feature Benefit #1]
 ✅ [Feature Benefit #2]
 
-It only takes a minute to try it — and once you do, you’ll
+It only takes a minute to try it, and once you do, you’ll
 start saving time every day.
 
 [CTA Button: Activate Now]
@@ -78,7 +78,7 @@ to see value from your trial.
 Cheers,
 The [Product] Team
 ```
-<!-- ![Feature Email Mockup](email-mockups/feature.png) -->
+![Feature Email Mockup](email-mockups/feature.png)
 ---
 
 - **Day 2 – Nudge Email (Inactive Users)**  
@@ -106,7 +106,7 @@ email and we’ll point you to the best setup.
 Cheers,
 The [Product] Team
 ```
-<!-- ![Nudge Email Mockup](email-mockups/nudge.png) -->
+![Nudge Email Mockup](email-mockups/nudge.png)
 ---
 
 - **Day 5 – Upgrade Offer**  
@@ -135,7 +135,7 @@ Questions? Just reply to this email, we are available 24/7 to help.
 Cheers,  
 The [Product] Team
 ```
-<!-- ![Upgrade Offer Mockup](email-mockups/upgrade.png) -->
+![Upgrade Offer Mockup](email-mockups/upgrade.png)
 
 ## Results (Hypothetical)
 
