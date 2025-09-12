@@ -66,7 +66,7 @@ Here’s a feature our power users say makes the biggest difference:
 It only takes a minute to try it — and once you do, you’ll 
 start saving time every day.
 
-[CTA Button: Activate This Feature]
+[CTA Button: Activate Now]
 
 Ready to try it? Activating this feature is the fastest way 
 to see value from your trial.
