@@ -26,30 +26,46 @@ The goal of this flow is to activate trial users within their first week by deli
 ## Email Examples
 
 - **Day 0 – Welcome Email**</br>
-<!-- ![Welcome Email Mockup](email-mockups/welcome.png) -->
-*Subject*: Welcome to [Product] — here’s your first quick win  
-*Purpose*: Guide users to quick setup and highlight immediate value.
+  <!-- ![Welcome Email Mockup](email-mockups/welcome.png) -->
+  _Subject_: Welcome to [Product] — here’s your first quick win  
+  _Purpose_: Guide users to quick setup and highlight immediate value.
+  _Body_:
+  ```
+Hi [First Name],
 
+Welcome to [Product]! You’re all set to start your free trial.
+To help you get the most value right away, we’ve put together a quick 2-minute setup guide:
+
+[CTA Button][Get Started Now]
+
+The sooner you explore, the faster you’ll see how [Product] can [core benefit, e.g. save you time / improve your workflow].
+
+Cheers,
+The [Product] Team
+```
 ---
 
 - **Day 2 – Feature Email (Active Users)**</br>
-<!-- ![Feature Email Mockup](email-mockups/feature.png) -->
-  _Subject_: Unlock the feature our power users love most</br>
+  <!-- ![Feature Email Mockup](email-mockups/feature.png) -->
+  _Subject_: Unlock the feature our power users love most
   _Purpose_: Drive activation of key product feature.
+  _Body (plain text)_:
 
 ---
 
 - **Day 2 – Nudge Email (Inactive Users)**</br>
- <!-- ![Nudge Email Mockup](email-mockups/nudge.png) -->
-  _Subject_: Haven’t had a chance to explore? Here’s why it’s worth it</br>
+  <!-- ![Nudge Email Mockup](email-mockups/nudge.png) -->
+  _Subject_: Haven’t had a chance to explore? Here’s why it’s worth it
   _Purpose_: Reactivate inactive users with a value reminder.
-  
+  _Body (plain text)_:
+
 ---
 
 - **Day 5 – Upgrade Offer**</br>
- <!-- ![Upgrade Offer Mockup](email-mockups/upgrade.png) -->
-  _Subject_: Your trial is almost up — upgrade today and save 20%</br>
+  <!-- ![Upgrade Offer Mockup](email-mockups/upgrade.png) -->
+  _Subject_: Your trial is almost up — upgrade today and save 20%
   _Purpose_: Create urgency, push trial users to paid plan.
+  _Body (plain text)_:
 
 ## Results (Hypothetical)
 
