@@ -67,7 +67,7 @@ Here’s a feature our power users say makes the biggest difference:
 ✅ [Feature Benefit #1]
 ✅ [Feature Benefit #2]
 
-It only takes a minute to try it — and once you do, you’ll
+It only takes a minute to try it, and once you do, you’ll
 start saving time every day.
 
 [CTA Button: Activate Now]
@@ -78,7 +78,7 @@ to see value from your trial.
 Cheers,
 The [Product] Team
 ```
-<!-- ![Feature Email Mockup](email-mockups/feature.png) -->
+![Feature Email Mockup](email-mockups/feature.png)
 ---
 
 - **Day 2 – Nudge Email (Inactive Users)**  
