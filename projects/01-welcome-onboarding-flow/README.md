@@ -9,7 +9,7 @@ The goal of this flow is to activate trial users within their first week by deli
 - Trigger: New signup
 - Segments: Active vs inactive users
 - Channels: Email
-- KPIs: Activation %, Conversion %, CTR
+- KPIs: Activation rate, CTR, Trial-to-Paid conversion
 
 ## Flow Diagram
 
@@ -26,26 +26,28 @@ The goal of this flow is to activate trial users within their first week by deli
 ## Email Examples
 
 - **Day 0 – Welcome Email**</br>
-<!-- ![Welcome Email Mockup](email-mockups/welcome.png) -->
-_Subject_: Welcome to [Product] — here’s your first quick win</br>
-_Preheader_: Get started in 2 minutes with our setup guide</br>
-_Purpose_: Guide users to quick setup and highlight immediate value.</br>
-_Body (plain text)_:
+  <!-- ![Welcome Email Mockup](email-mockups/welcome.png) -->
+  _Subject_: Welcome to [Product] — here’s your first quick win</br>
+  _Preheader_: Get started in 2 minutes with our setup guide</br>
+  _Purpose_: Guide users to quick setup and highlight immediate value.</br>
+  _Body (plain text)_:
+
 ```
 Hi [First Name],
 
 Welcome to [Product]! You’re all set to start your free trial.
-To help you get the most value right away, we’ve put together 
+To help you get the most value right away, we’ve put together
 a quick 2-minute setup guide:
 
 [CTA button: Get Started Now]
 
-The sooner you explore, the faster you’ll see how [Product] 
+The sooner you explore, the faster you’ll see how [Product]
 can [core benefit, e.g. save you time / improve your workflow].
 
 Cheers,
 The [Product] Team
 ```
+
 ---
 
 - **Day 2 – Feature Email (Active Users)**</br>
@@ -54,34 +56,56 @@ The [Product] Team
   _Preheader_: See how [Feature] can save you time starting today</br>
   _Purpose_: Drive activation of key product feature that increases retention</br>
   _Body (plain text)_:
+
 ```
 Hi [First Name],
 
-Great to see you exploring [Product]!  
+Great to see you exploring [Product]!
 Here’s a feature our power users say makes the biggest difference:
 
-✅ [Feature Benefit #1]  
-✅ [Feature Benefit #2]  
+✅ [Feature Benefit #1]
+✅ [Feature Benefit #2]
 
-It only takes a minute to try it — and once you do, you’ll 
+It only takes a minute to try it — and once you do, you’ll
 start saving time every day.
 
 [CTA Button: Activate Now]
 
-Ready to try it? Activating this feature is the fastest way 
+Ready to try it? Activating this feature is the fastest way
 to see value from your trial.
 
-Cheers,  
+Cheers,
 The [Product] Team
 ```
 
 ---
 
 - **Day 2 – Nudge Email (Inactive Users)**</br>
-  <!-- ![Nudge Email Mockup](email-mockups/nudge.png) -->
-  _Subject_: Haven’t had a chance to explore? Here’s why it’s worth it
-  _Purpose_: Reactivate inactive users with a value reminder.
+   <!-- ![Nudge Email Mockup](email-mockups/nudge.png) -->
+  _Subject_: Haven’t had a chance to explore? Here’s why it’s worth it</br>
+  _Preheader_: See the core benefit in one click</br>
+  _Purpose_: Reactivate inactive users with a value reminder and low-friction next step.</br>
   _Body (plain text)_:
+
+```
+Hi [First Name],
+
+You started a [Product] trial a couple of days ago but haven’t
+had time to dive in.
+Here’s a 2-minute guided tour that shows exactly how [Product]
+helps you [core benefit].
+
+[CTA Button: Take the 2-minute Tour]
+
+Prefer a quick win? Start with [Feature] — it takes about 60 seconds
+and delivers [specific outcome].
+
+If you’d like a recommendation for your use case, just reply to this
+email and we’ll point you to the best setup.
+
+Cheers,
+The [Product] Team
+```
 
 ---
 
