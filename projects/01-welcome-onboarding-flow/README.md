@@ -106,7 +106,7 @@ email and we’ll point you to the best setup.
 Cheers,
 The [Product] Team
 ```
-<!-- ![Nudge Email Mockup](email-mockups/nudge.png) -->
+![Nudge Email Mockup](email-mockups/nudge.png)
 ---
 
 - **Day 5 – Upgrade Offer**  
