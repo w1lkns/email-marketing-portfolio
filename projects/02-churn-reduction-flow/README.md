@@ -27,29 +27,40 @@ Reduce voluntary churn by re-engaging at-risk customers before cancellation. The
 
 
 ## Email Examples
-Intro
+_Note: Personalisation tokens shown in generic format for clarity._
 
 - **Email #1 – Value Reminder**  
-  **Subject**: 
-  **Preheader**: 
-  **Purpose**: 
-  **Body (plain text)**:
+  **Subject**: Keep [Product] working for you every day  
+  **Preheader**: [Feature] makes your work easier — don’t lose it now  
+  **Purpose**: Remind users of the product’s core value and benefits they’ve already experienced  
+  **Body (plain text)**:  
 
 ```
-Hi [First Name],
+Hi [First Name|there],
+
+We noticed you haven’t been as active in [Product] recently.  
+Before you make any changes, here’s what [Product] is already doing for you:
+
+• [Feature 1] — helps you [save time / reduce effort]  
+• [Feature 2] — gives you [clearer insights / faster results]  
+• [Feature 3] — trusted by [X,000] users every day  
+
+Your account is still active — log back in today and keep those benefits working for you:  
+
+[CTA Button: Pick Up Where I Left Off]
 
 Cheers,
 The [Product] Team
 ```
 
-<!-- ![Welcome Email Mockup](email-mockups/welcome.png) -->
+<!-- ![Value Reminder Email Mockup](email-mockups/value-mockup.png) -->
 ---
 
 - **Email #2 – Success Story (Proof/Trust Builder)**  
-  **Subject**: 
-  **Preheader**: 
-  **Purpose**: 
-  **Body (plain text)**:
+  **Subject**:  
+  **Preheader**:  
+  **Purpose**:  
+  **Body (plain text)**:  
 
 ```
 Hi [First Name],
@@ -57,14 +68,14 @@ Hi [First Name],
 Cheers,
 The [Product] Team
 ```
-<!-- ![Feature Email Mockup](email-mockups/feature.png) -->
+<!-- ![Success Story Email Mockup](email-mockups/success-story.png) -->
 ---
 
 - **Email #3 – Save Offer**  
-  **Subject**: 
-  **Preheader**: 
-  **Purpose**: 
-  **Body (plain text)**:
+  **Subject**:  
+  **Preheader**:  
+  **Purpose**:  
+  **Body (plain text)**:  
 
 ```
 Hi [First Name],
@@ -72,8 +83,7 @@ Hi [First Name],
 Cheers,
 The [Product] Team
 ```
-<!-- ![Nudge Email Mockup](email-mockups/nudge.png) -->
----
+<!-- ![Save Offer Email Mockup](email-mockups/offer.png) -->
 
 ## Results (Hypothetical)
 - X% of at-risk users re-engaged  
