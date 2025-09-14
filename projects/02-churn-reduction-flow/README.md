@@ -72,7 +72,7 @@ Hello [First Name|there],
 Still on the fence about [Product]? You’re not alone, many of our customers 
 started in the same place.
 
-Here’s how [Client Name] turned things around:
+Here’s how ACME turned things around:
 • Challenge: Acme saw 50% of trial users vanish before converting  
 • Solution: They activated automated check-ins with [Product]    
 • Result: Within 30 days, churn dropped by 42%  
