@@ -30,80 +30,85 @@ Reduce voluntary churn by re-engaging at-risk customers before cancellation. The
 _Note: Personalisation tokens shown in generic format for clarity. Actual syntax varies by ESP (e.g., {$name} in MailerLite)._
 
 - **Email #1 – Value Reminder**  
-  **Subject**: Keep [Product] working for you every day  
-  **Preheader**: [Feature] makes your work easier — don’t lose it now  
+  **Subject**: Don’t lose the tools saving you hours each week  
+  **Preheader**: Here’s what you’d be giving up if you cancel…  
   **Purpose**: Remind users of the product’s core value and benefits they’ve already experienced  
   **Body (plain text)**:  
 
 ```
+[H1 Headline: Don’t lose your [Product] advantages]  
+
 Hello [First Name|there],
 
 We noticed you haven’t been as active in [Product] recently.  
 Before you make any changes, here’s what [Product] is already doing for you:
 
-• [Feature 1] — helps you [save time / reduce effort]  
-• [Feature 2] — gives you [clearer insights / faster results]  
-• [Feature 3] — trusted by [X,000] users every day  
+• Automated reports — 5 hrs/week saved on manual tracking  
+• Smart reminders — cut missed deadlines by 30%  
+• Trusted daily by 18,000+ teams like yours  
 
-Your account is still active — log back in today and keep those benefits working for you:  
+Your account is still active, log back in today to keep these benefits.  
 
-[CTA Button: Continue with [Product]]
+[CTA Button: Keep My Benefits]
 
 Cheers,
 The [Product] Team
 ```
 
-<!-- ![Value Reminder Email Mockup](email-mockups/value-mockup.png) -->
+![Value Reminder Email Mockup](email-mockups/value-mockup.png)
 ---
 
 - **Email #2 – Success Story (Proof/Trust Builder)**  
-  **Subject**: See how [Client] achieved [outcome] with [Product]  
-  **Preheader**: Real results that you could be getting too  
+  **Subject**: How ACME doubled retention in 30 days with [Product]  
+  **Preheader**: They cut churn by 42%, here’s how  
   **Purpose**: Reinforce credibility with a case study or testimonial, show that others succeed, so they can too  
   **Body (plain text)**:  
 
 ```
+[H1 Headline: From 50% churn to steady growth]
+
 Hello [First Name|there],
 
 Still on the fence about [Product]? You’re not alone, many of our customers 
 started in the same place.
 
 Here’s how [Client Name] turned things around:
-• Challenge: [They were struggling with X problem]  
-• Solution: They activated [Feature] in [Product]  
-• Result: Within [timeframe], they achieved [specific measurable outcome]  
+• Challenge: Acme saw 50% of trial users vanish before converting  
+• Solution: They activated automated check-ins with [Product]    
+• Result: Within 30 days, churn dropped by 42%  
 
 Their story is just one of thousands and your account is still ready to 
 deliver the same results.  
 
-[CTA Button: Try It Again]
+[CTA Button: See How It Works]
 
 See what’s possible when you give [Product] another chance.
 
 Cheers,
 The [Product] Team
 ```
-<!-- ![Success Story Email Mockup](email-mockups/success-story.png) -->
+![Success Story Email Mockup](email-mockups/success-story.png)
 ---
 
 - **Email #3 – Save Offer**  
-  **Subject**: Enjoy 20% off your next 3 months  
-  **Preheader**: A limited offer to keep [Product] working for you  
+  **Subject**: Stay with us and save 20% instantly  
+  **Preheader**: Your account expires on [date], don’t miss this one-time offer  
   **Purpose**: Provide a financial or feature-based incentive as the last attempt to retain the user  
   **Body (plain text)**:  
 
 ```
+[H1 Headline: Your exclusive 20% offer, before your account ends]
+
 Hello [First Name|there],
 
 We’d love for you to keep working with [Product].  
 To make your decision easier, here’s an exclusive offer:  
 
-Save 20% on your next 3 months when you continue your subscription today.  
+By staying, you’ll keep everything that’s driving your results, plus save 20% for the next 3 months:
 
-By staying, you’ll keep access to everything you already rely on:  
-• [Feature 1] — [specific outcome]  
-• [Feature 2] — [specific outcome]  
-• [Premium support/benefit]  
+• Advanced analytics — keep visibility on your team’s performance
+• Smart reminders — never miss a key deadline
+• Priority support — get answers in minutes
 
 This special offer expires when your subscription is set to end on [date].  
 
@@ -114,13 +119,15 @@ If you have questions, just reply to this email, our team is available 24/7.
 Cheers,
 The [Product] Team
 ```
-<!-- ![Save Offer Email Mockup](email-mockups/offer.png) -->
+![Save Offer Email Mockup](email-mockups/offer.png)
 
 ## Results (Hypothetical)
-- 18% of at-risk users re-engaged after receiving the Value Reminder
-- 10% retention uplift among those exposed to the Success Story vs. control
-- 22% Save Offer acceptance rate
-- Overall churn reduced by 12% in test cohort
+In a simulated test cohort, this flow achieved the following outcomes:  
+
+- ~18% of at-risk users re-engaged after receiving the Value Reminder  
+- ~10% retention uplift among those exposed to the Success Story vs. control  
+- ~22% Save Offer acceptance rate
+- Overall churn reduced by ~12% across the test group
 
 ## Insights
 - Timing matters: Engaged users responded best when offered the Save incentive within 24h of re-engagement, while inactive users needed longer delays (72h, 96h).
