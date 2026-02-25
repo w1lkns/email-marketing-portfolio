@@ -55,7 +55,7 @@ Cheers,
 The [Product] Team
 ```
 
-![Value Reminder Email Mockup](email-mockups/value-mockup.png)
+![Value Reminder Email Mockup](email-mockups/value-email.png)
 ---
 
 - **Email #2 – Success Story (Proof/Trust Builder)**  
@@ -87,7 +87,7 @@ See what’s possible when you give [Product] another chance.
 Cheers,
 The [Product] Team
 ```
-![Success Story Email Mockup](email-mockups/success-story.png)
+![Success Story Email Mockup](email-mockups/success-story-email.png)
 ---
 
 - **Email #3 – Save Offer**  
@@ -119,7 +119,7 @@ If you have questions, just reply to this email, our team is available 24/7.
 Cheers,
 The [Product] Team
 ```
-![Save Offer Email Mockup](email-mockups/offer.png)
+![Save Offer Email Mockup](email-mockups/offer-email.png)
 
 ## Results (Hypothetical)
 In a simulated test cohort, this flow achieved the following outcomes:  
