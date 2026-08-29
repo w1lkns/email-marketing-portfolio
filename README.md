@@ -1,9 +1,9 @@
 # Email Marketing Portfolio — Wilkins M.
 
 B2B email marketing specialist focused on lifecycle campaigns and webinar
-funnels. Managed email for SiteGround's Spanish-speaking markets through
-March 2026 — averaging **38% open rates** across 30+ webinar campaigns in
-2025, against a **28% blended average** across all campaign types.
+funnels. Currently managing email for SiteGround's Spanish-speaking markets —
+averaging **38% open rates** across 30+ webinar campaigns in 2025, against a
+**28% blended average** across all campaign types.
 
 This portfolio demonstrates how I approach flow design: strategy, segmentation
 logic, copy, and sequencing — not just template building.
